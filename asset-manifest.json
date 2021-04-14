@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kabir132.github.io/csb-f9h5g/static/css/main.9dcce925.chunk.css",
+    "main.js": "https://kabir132.github.io/csb-f9h5g/static/js/main.e219dcdd.chunk.js",
+    "main.js.map": "https://kabir132.github.io/csb-f9h5g/static/js/main.e219dcdd.chunk.js.map",
+    "runtime-main.js": "https://kabir132.github.io/csb-f9h5g/static/js/runtime-main.e3c06420.js",
+    "runtime-main.js.map": "https://kabir132.github.io/csb-f9h5g/static/js/runtime-main.e3c06420.js.map",
+    "static/js/2.2232312f.chunk.js": "https://kabir132.github.io/csb-f9h5g/static/js/2.2232312f.chunk.js",
+    "static/js/2.2232312f.chunk.js.map": "https://kabir132.github.io/csb-f9h5g/static/js/2.2232312f.chunk.js.map",
+    "index.html": "https://kabir132.github.io/csb-f9h5g/index.html",
+    "static/css/main.9dcce925.chunk.css.map": "https://kabir132.github.io/csb-f9h5g/static/css/main.9dcce925.chunk.css.map",
+    "static/js/2.2232312f.chunk.js.LICENSE.txt": "https://kabir132.github.io/csb-f9h5g/static/js/2.2232312f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3c06420.js",
+    "static/js/2.2232312f.chunk.js",
+    "static/css/main.9dcce925.chunk.css",
+    "static/js/main.e219dcdd.chunk.js"
+  ]
+}

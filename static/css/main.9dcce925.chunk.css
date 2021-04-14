@@ -1,0 +1,2 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,400i,700);*{box-sizing:none;font-family:"lato",sans-serif;text-align:center}body{background:var(--bs-dark)}.grid{height:100vh}#quote-box,.grid{display:grid;place-items:center}#quote-box{padding:5px;margin:5px;background-color:#adb5bd;border-radius:10px;width:50vw;height:auto}h1{font-size:20px;grid-row:1/1}h1,p{grid-column:1/span 5}p{grid-row:2/2}button{width:20vw;height:10vh;grid-row:3/3;grid-column:1/1}a{grid-column:2/2;grid-row:3/span 3}
+/*# sourceMappingURL=main.9dcce925.chunk.css.map */
